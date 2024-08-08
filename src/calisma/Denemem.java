@@ -12,3 +12,4 @@ public class Denemem {
 
 
 }
+// de dersen o
